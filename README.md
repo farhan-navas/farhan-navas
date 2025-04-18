@@ -15,7 +15,7 @@
 <br>
 
 **Cool Statistics** <br>
-![Programming languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-navas) <br>
+![Programming languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-navas&layout=compact) <br>
 
 <!--
 **farhan-navas/farhan-navas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
